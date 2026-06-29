@@ -1,2 +1,5 @@
-# suumo-image-editor-updates
-SUUMO Image Editor update feed
+# DEAiE
+
+DEAiE update feed.
+
+Install from the latest GitHub Release.
